@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+    margin: 10px auto;
+    padding: 10px;
+}
+body{
+    background-color: rgb(92, 92, 92);
+    width: 700px;
+    height: 900px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.one{
+    width: 660px;
+    height: 70px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.navone{
+    width: 640px;
+    height: 35px;
+    border: 1pt rgb(0, 0, 0) solid;
+    margin-top: 10px;
+}
+.secone{
+    width: 230px;
+    height: 700px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    right: 215px;
+}
+.sectwo{
+    width: 400px;
+    height: 700px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    left: 130px;
+    bottom: 710px;
+}
+.four, .text, .footertwo{
+    padding: 23px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.two{
+    width: 200px;
+    height: 40px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.navtwo{
+    width: 200px;
+    height: 555px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.footerone{
+    width: 200px;
+    height: 40px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.three{
+    width: 360px;
+    height: 40px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.articleone{
+    width: 360px;
+    height: 272px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.four{
+    width: 320px;
+    height: 35px;
+
+}
+.text{
+    width: 320px;
+    height: 35px;
+
+}
+.footertwo{
+    width: 320px;
+    height: 35px;
+
+}
+.articletwo{
+    width: 360px;
+    height: 271px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.five{
+    width: 320px;
+    height: 35px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.footerfour{
+    width: 360px;
+    height: 40px;
+    border: 1pt rgb(0, 0, 0) solid;
+}
+.footerthree{
+    width: 320px;
+    height: 35px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    bottom: 150px;
+}
+.txt{
+    width: 215px;
+    height: 140px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    right: 52px;
+}
+aside{
+    width: 100px;
+    height: 140px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    left: 110px;
+    bottom: 150px;
+}
+.footerfive{
+    width: 660px;
+    height: 65px;
+    border: 1pt rgb(0, 0, 0) solid;
+    position: relative;
+    bottom: 700px;
+}
+.one, .secone, .sectwo{
+    background-color: #747575;
+}
+.two, .navone, .navtwo, footer, .three, .four, .text, .five, .txt, aside{
+    background-color: #878a87;
+}
+
+
+
